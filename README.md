@@ -1,9 +1,6 @@
 # Predicting the Outcomes of Professional League of Legends Matches Based on Early and Mid-Game Performance Metrics
 
-Xuecheng Xu [@KUJIcheng](https://github.com/KUJIcheng)  
-Yijun Luo [@Jackyijun](https://github.com/Jackyijun)  
-David Sun [@EskimoSun](https://github.com/EskimoSun)  
-Bruce Cheng [@Bruce0921](https://github.com/Bruce0921)  
+Xuecheng Xu [@KUJIcheng](https://github.com/KUJIcheng)  Yijun Luo [@Jackyijun](https://github.com/Jackyijun)  David Sun [@EskimoSun](https://github.com/EskimoSun)  Bruce Cheng [@Bruce0921](https://github.com/Bruce0921)  
 
 Original work can be traced back to [https://github.com/KUJIcheng/CSE158_assignment2](https://github.com/KUJIcheng/CSE158_assignment2)  
   
@@ -17,4 +14,6 @@ and adaptation. Analyzing these early and mid-game metrics, therefore, provides 
 
 ### Predictive task & research question
 So our task is to **Predict the Outcomes of Professional League of Legends Matches Based on Early and Mid-Game Performance Metrics**
+  
+**More Details of our study can be found in our [paper](https://github.com/KUJIcheng/LOL_mdterm_prediction/blob/main/Paper%20-%20League%20of%20Legends%20Data%20Prediction.pdf) in the repo, feel free to check it out!**
 
