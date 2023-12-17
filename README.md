@@ -1,6 +1,6 @@
 # Predicting the Outcomes of Professional League of Legends Matches Based on Early and Mid-Game Performance Metrics
 
-Xuecheng Xu [@KUJIcheng](https://github.com/KUJIcheng)  Yijun Luo [@Jackyijun](https://github.com/Jackyijun)  David Sun [@EskimoSun](https://github.com/EskimoSun)  Bruce Cheng [@Bruce0921](https://github.com/Bruce0921)  
+Xuecheng Xu [@KUJIcheng](https://github.com/KUJIcheng) &nbsp;Yijun Luo [@Jackyijun](https://github.com/Jackyijun) &nbsp;David Sun [@EskimoSun](https://github.com/EskimoSun) &nbsp;Bruce Cheng [@Bruce0921](https://github.com/Bruce0921)  
 
 Original work can be traced back to [https://github.com/KUJIcheng/CSE158_assignment2](https://github.com/KUJIcheng/CSE158_assignment2)  
   
