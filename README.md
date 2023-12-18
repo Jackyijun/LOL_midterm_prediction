@@ -1,4 +1,4 @@
-# League of Legends Matches Outcomes Predictiion Based on Early and Mid-Game Performance Metrics
+# League of Legends Matches Outcomes Prediction Based on Early and Mid-Game Performance Metrics
 
 Xuecheng Xu [@KUJIcheng](https://github.com/KUJIcheng) &nbsp;&nbsp;Yijun Luo [@Jackyijun](https://github.com/Jackyijun) &nbsp;&nbsp;David Sun [@EskimoSun](https://github.com/EskimoSun) &nbsp;&nbsp;Bruce Cheng [@Bruce0921](https://github.com/Bruce0921)  
 
